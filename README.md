@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Hajaj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20Full-Stack%20Developer%20|%20Big%20Data%20Specialist&descAlignY=52&descSize=18"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineer+from+Morocco+%F0%9F%87%B2%F0%9F%87%A6;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Big+Data+%26+Analytics+Specialist;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Ingenieur+Informatique+%40+Hany%26Zen+%F0%9F%87%B2%F0%9F%87%A6;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Big+Data+%26+Analytics+Specialist;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -31,8 +31,13 @@ class YoussefHajaj:
     def __init__(self):
         self.name = "Youssef Hajaj"
         self.role = "AI Engineer & Full-Stack Developer"
-        self.location = "Agadir, Morocco"
+        self.location = "Casablanca, Morocco"
         self.education = "Computer Engineering @ Universapolis"
+        self.current_job = {
+            "position": "Ingenieur Informatique",
+            "company": "Hany&Zen",
+            "location": "Technopark Casablanca"
+        }
         self.specialization = ["AI/ML", "Big Data", "Full-Stack Development"]
 
     def current_focus(self):
