@@ -54,7 +54,7 @@ class YoussefHajaj:
 
 <br/>
 
-## Featured Project
+## Featured Projects
 
 <div align="center">
 
@@ -63,6 +63,12 @@ class YoussefHajaj:
 **AI-powered sentiment analysis for YouTube comments**
 
 Supports Arabic, Darija, French & English | Built with FastAPI + PyTorch + Transformers
+
+<br/>
+
+[![Automobile Assistant AI](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=automobile-assistant-ai&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/automobile-assistant-ai)
+
+**AI-powered automobile assistant chatbot**
 
 </div>
 
