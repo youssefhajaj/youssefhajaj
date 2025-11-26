@@ -56,29 +56,13 @@ class YoussefHajaj:
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/youssefhajaj/youtube-sentiment-analyzer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=youtube-sentiment-analyzer&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/youssefhajaj/automobile-assistant-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=automobile-assistant-ai&theme=radical&hide_border=true" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/youssefhajaj/Vehicle-Speed-Estimation-with-Computer-Vision">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=Vehicle-Speed-Estimation-with-Computer-Vision&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/youssefhajaj/AI-Image-and-Video-Captioner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=AI-Image-and-Video-Captioner&theme=radical&hide_border=true" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/youssefhajaj/PFE-Transport-Management-2025">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=PFE-Transport-Management-2025&theme=radical&hide_border=true" />
-  </a>
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [YouTube Sentiment Analyzer](https://github.com/youssefhajaj/youtube-sentiment-analyzer) | AI-powered sentiment analysis for YouTube comments supporting Arabic, Darija, French & English | `Python` `FastAPI` `PyTorch` `Transformers` |
+| [Automobile Assistant AI](https://github.com/youssefhajaj/automobile-assistant-ai) | AI-powered automobile assistant chatbot for vehicle-related queries | `Python` `AI` `NLP` |
+| [Vehicle Speed Estimation](https://github.com/youssefhajaj/Vehicle-Speed-Estimation-with-Computer-Vision) | Computer vision system for real-time vehicle speed estimation | `Python` `OpenCV` `Computer Vision` |
+| [AI Image & Video Captioner](https://github.com/youssefhajaj/AI-Image-and-Video-Captioner) | Generate captions for images and videos using AI models | `Python` `Deep Learning` `AI` |
+| [PFE Transport Management](https://github.com/youssefhajaj/PFE-Transport-Management-2025) | Transport management system - Final Year Project 2025 | `Full-Stack` `Web App` |
 
 ---
 
