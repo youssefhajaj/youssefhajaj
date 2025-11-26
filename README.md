@@ -49,7 +49,7 @@ class YoussefHajaj:
         ]
 
     def fun_fact(self):
-        return "I build tools that understand Arabic & Darija!"
+        return "I debug code faster with coffee than without!"
 ```
 
 <br/>
