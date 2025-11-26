@@ -57,13 +57,27 @@ class YoussefHajaj:
 ## Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/youssefhajaj/youtube-sentiment-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=youtube-sentiment-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/youssefhajaj/automobile-assistant-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=automobile-assistant-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/youssefhajaj/Vehicle-Speed-Estimation-with-Computer-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=Vehicle-Speed-Estimation-with-Computer-Vision&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/youssefhajaj/AI-Image-and-Video-Captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=AI-Image-and-Video-Captioner&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/youssefhajaj/PFE-Transport-Management-2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=PFE-Transport-Management-2025&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-
+  <a href="https://github.com/youssefhajaj/youtube-sentiment-analyzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=youtube-sentiment-analyzer&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/youssefhajaj/automobile-assistant-ai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=automobile-assistant-ai&theme=radical&hide_border=true" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/youssefhajaj/Vehicle-Speed-Estimation-with-Computer-Vision">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=Vehicle-Speed-Estimation-with-Computer-Vision&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/youssefhajaj/AI-Image-and-Video-Captioner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=AI-Image-and-Video-Captioner&theme=radical&hide_border=true" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/youssefhajaj/PFE-Transport-Management-2025">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=PFE-Transport-Management-2025&theme=radical&hide_border=true" />
+  </a>
 </div>
 
 ---
@@ -119,8 +133,8 @@ class YoussefHajaj:
 ## GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=youssefhajaj&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Youssef Hajaj github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhajaj&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefhajaj&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Youssef Hajaj github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhajaj&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br/>
@@ -196,11 +210,11 @@ HTML/CSS     2 hrs 55 mins   ███░░░░░░░░░░░░░░
 
 ---
 
-## Currently Listening
+## My Playlist
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hbv3j6x5ysxlkjxjxjxjxjx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6c63ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/72P9hEfyPlSkTvpXZ8pJsY?si=c6da4439c86f4645)
 
 </div>
 
