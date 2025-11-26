@@ -58,27 +58,11 @@ class YoussefHajaj:
 
 <div align="center">
 
-[![YouTube Sentiment Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=youtube-sentiment-analyzer&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/youtube-sentiment-analyzer)
-
-**AI-powered sentiment analysis for YouTube comments**
-
-Supports Arabic, Darija, French & English | Built with FastAPI + PyTorch + Transformers
-
-<br/>
-
-[![Automobile Assistant AI](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=automobile-assistant-ai&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/automobile-assistant-ai)
-
-<br/>
-
-[![Vehicle Speed Estimation](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=Vehicle-Speed-Estimation-with-Computer-Vision&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/Vehicle-Speed-Estimation-with-Computer-Vision)
-
-<br/>
-
-[![AI Image and Video Captioner](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=AI-Image-and-Video-Captioner&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/AI-Image-and-Video-Captioner)
-
-<br/>
-
-[![PFE Transport Management](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=PFE-Transport-Management-2025&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/PFE-Transport-Management-2025)
+<a href="https://github.com/youssefhajaj/youtube-sentiment-analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=youtube-sentiment-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/youssefhajaj/automobile-assistant-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=automobile-assistant-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/youssefhajaj/Vehicle-Speed-Estimation-with-Computer-Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=Vehicle-Speed-Estimation-with-Computer-Vision&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/youssefhajaj/AI-Image-and-Video-Captioner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=AI-Image-and-Video-Captioner&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/youssefhajaj/PFE-Transport-Management-2025"><img src="https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=PFE-Transport-Management-2025&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 
 </div>
 
@@ -135,26 +119,57 @@ Supports Arabic, Darija, French & English | Built with FastAPI + PyTorch + Trans
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youssefhajaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhajaj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefhajaj&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=youssefhajaj&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Youssef Hajaj github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefhajaj&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefhajaj&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=youssefhajaj&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=6C63FF&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youssefhajaj&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## Activity Graph
+## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefhajaj&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefhajaj&custom_title=Youssef's%20Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
+JavaScript   6 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.1%
+TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.7%
+HTML/CSS     2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.0%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## Snake Animation
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
@@ -163,29 +178,62 @@ Supports Arabic, Darija, French & English | Built with FastAPI + PyTorch + Trans
 
 <div align="center">
 
-I'm always interested in collaborating on innovative projects, especially in **AI/ML**, **NLP**, and **Full-Stack Development**.
+<img src="https://img.shields.io/badge/Open%20for-Collaborations-6C63FF?style=for-the-badge" alt="Open for Collaborations"/>
 
-**Open for:**
-- Freelance opportunities
-- Open source collaborations
-- Interesting AI/ML projects
+<br/><br/>
+
+| | |
+|---|---|
+| **Freelance** | Available for AI/ML projects |
+| **Open Source** | Always open to contribute |
+| **Job Offers** | Considering interesting opportunities |
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email%20Me-youssef.hajaj111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.hajaj111@gmail.com)
+<a href="mailto:youssef.hajaj111@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-youssef.hajaj111%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
+</div>
+
+---
+
+## Currently Listening
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hbv3j6x5ysxlkjxjxjxjxjx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6c63ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
+
+## Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefhajaj&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youssefhajaj&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=youssefhajaj&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youssefhajaj&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=youssefhajaj&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
 </div>
 
 ---
 
 <div align="center">
 
-### Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
+### Thanks for visiting!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
