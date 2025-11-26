@@ -68,7 +68,17 @@ Supports Arabic, Darija, French & English | Built with FastAPI + PyTorch + Trans
 
 [![Automobile Assistant AI](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=automobile-assistant-ai&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/automobile-assistant-ai)
 
-**AI-powered automobile assistant chatbot**
+<br/>
+
+[![Vehicle Speed Estimation](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=Vehicle-Speed-Estimation-with-Computer-Vision&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/Vehicle-Speed-Estimation-with-Computer-Vision)
+
+<br/>
+
+[![AI Image and Video Captioner](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=AI-Image-and-Video-Captioner&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/AI-Image-and-Video-Captioner)
+
+<br/>
+
+[![PFE Transport Management](https://github-readme-stats.vercel.app/api/pin/?username=youssefhajaj&repo=PFE-Transport-Management-2025&theme=tokyonight&hide_border=true)](https://github.com/youssefhajaj/PFE-Transport-Management-2025)
 
 </div>
 
