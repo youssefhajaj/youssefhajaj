@@ -56,6 +56,23 @@ class YoussefHajaj:
 
 ## Featured Projects
 
+### Skemato - Visual Database Schema Designer
+
+<a href="https://skemato.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Product-skemato.com-6C63FF?style=for-the-badge" alt="Live Product"/>
+</a>
+<a href="https://github.com/youssefhajaj/skemato" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+> **Free online database schema designer** with AI assistance. Design ER diagrams visually, export to MySQL, PostgreSQL, SQLite, SQL Server & Oracle. Generate migrations for Laravel, Django, Prisma & TypeORM.
+
+`React` `FastAPI` `Python` `MySQL` `AI` `Google Gemini` `Tailwind CSS`
+
+---
+
+### Other Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | [YouTube Sentiment Analyzer](https://github.com/youssefhajaj/youtube-sentiment-analyzer) | AI-powered sentiment analysis for YouTube comments supporting Arabic, Darija, French & English | `Python` `FastAPI` `PyTorch` `Transformers` |
